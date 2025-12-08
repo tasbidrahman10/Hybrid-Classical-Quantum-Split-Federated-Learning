@@ -1,4 +1,4 @@
-==================================================================
+
 
 Hybrid Classical–Quantum Split Learning for Privacy-Preserving IoMT Analytics
 Research Repository — Baseline Models, Datasets, and Experiments
